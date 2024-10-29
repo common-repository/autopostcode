@@ -1,0 +1,11 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+form.woocommerce-checkout .auto_loader { background: url(../../autopostcode_loading.gif) no-repeat 70% center;}
+.billing_auto_result_class span, .shipping_auto_result_class span{width: 100%;}
+select#auto_postcode_lookup_result_option { width: 100%; padding: 10px;margin-bottom: 10px;}
+button.button.autofindbtn{font-size: 0.875rem;position: absolute;top: 1px; right: 1px; height: 48px; line-height: 0;}
+.autosearchinput{height: 50px;}
+.auto_manual_text{cursor: pointer; margin-bottom: 0; margin-top: 1em; font-size: 0.8125em;}
